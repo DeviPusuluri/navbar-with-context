@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.ha {
+  height: 180px;
+  width: 180px;
+}
+
+.dho-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+.lho-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 100vh;
+}
